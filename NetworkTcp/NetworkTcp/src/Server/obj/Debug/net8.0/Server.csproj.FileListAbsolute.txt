@@ -1,0 +1,14 @@
+/Users/xalida/RiderProjects/NetworkTcp/NetworkTcp/src/Server/bin/Debug/net8.0/Server
+/Users/xalida/RiderProjects/NetworkTcp/NetworkTcp/src/Server/bin/Debug/net8.0/Server.deps.json
+/Users/xalida/RiderProjects/NetworkTcp/NetworkTcp/src/Server/bin/Debug/net8.0/Server.runtimeconfig.json
+/Users/xalida/RiderProjects/NetworkTcp/NetworkTcp/src/Server/bin/Debug/net8.0/Server.dll
+/Users/xalida/RiderProjects/NetworkTcp/NetworkTcp/src/Server/bin/Debug/net8.0/Server.pdb
+/Users/xalida/RiderProjects/NetworkTcp/NetworkTcp/src/Server/obj/Debug/net8.0/Server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xalida/RiderProjects/NetworkTcp/NetworkTcp/src/Server/obj/Debug/net8.0/Server.AssemblyInfoInputs.cache
+/Users/xalida/RiderProjects/NetworkTcp/NetworkTcp/src/Server/obj/Debug/net8.0/Server.AssemblyInfo.cs
+/Users/xalida/RiderProjects/NetworkTcp/NetworkTcp/src/Server/obj/Debug/net8.0/Server.csproj.CoreCompileInputs.cache
+/Users/xalida/RiderProjects/NetworkTcp/NetworkTcp/src/Server/obj/Debug/net8.0/Server.dll
+/Users/xalida/RiderProjects/NetworkTcp/NetworkTcp/src/Server/obj/Debug/net8.0/refint/Server.dll
+/Users/xalida/RiderProjects/NetworkTcp/NetworkTcp/src/Server/obj/Debug/net8.0/Server.pdb
+/Users/xalida/RiderProjects/NetworkTcp/NetworkTcp/src/Server/obj/Debug/net8.0/Server.genruntimeconfig.cache
+/Users/xalida/RiderProjects/NetworkTcp/NetworkTcp/src/Server/obj/Debug/net8.0/ref/Server.dll
