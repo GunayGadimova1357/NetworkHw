@@ -1,0 +1,14 @@
+/Users/xalida/RiderProjects/TicTacToe/Client/bin/Debug/net8.0/Client
+/Users/xalida/RiderProjects/TicTacToe/Client/bin/Debug/net8.0/Client.deps.json
+/Users/xalida/RiderProjects/TicTacToe/Client/bin/Debug/net8.0/Client.runtimeconfig.json
+/Users/xalida/RiderProjects/TicTacToe/Client/bin/Debug/net8.0/Client.dll
+/Users/xalida/RiderProjects/TicTacToe/Client/bin/Debug/net8.0/Client.pdb
+/Users/xalida/RiderProjects/TicTacToe/Client/obj/Debug/net8.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xalida/RiderProjects/TicTacToe/Client/obj/Debug/net8.0/Client.AssemblyInfoInputs.cache
+/Users/xalida/RiderProjects/TicTacToe/Client/obj/Debug/net8.0/Client.AssemblyInfo.cs
+/Users/xalida/RiderProjects/TicTacToe/Client/obj/Debug/net8.0/Client.csproj.CoreCompileInputs.cache
+/Users/xalida/RiderProjects/TicTacToe/Client/obj/Debug/net8.0/Client.dll
+/Users/xalida/RiderProjects/TicTacToe/Client/obj/Debug/net8.0/refint/Client.dll
+/Users/xalida/RiderProjects/TicTacToe/Client/obj/Debug/net8.0/Client.pdb
+/Users/xalida/RiderProjects/TicTacToe/Client/obj/Debug/net8.0/Client.genruntimeconfig.cache
+/Users/xalida/RiderProjects/TicTacToe/Client/obj/Debug/net8.0/ref/Client.dll
